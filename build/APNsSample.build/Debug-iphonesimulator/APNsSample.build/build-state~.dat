@@ -1,0 +1,248 @@
+TAPNsSample
+v7
+r0
+t317022295.688383
+cCheck dependencies
+cProcessInfoPlistFile /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/Info.plist APNsSample-Info.plist
+cCompileXIB /Users/cetauri/Documents/APNsSample/MainWindow.xib
+cProcessPCH /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-bpwullgcuutqupayazqtzrtbyyoe/APNsSample_Prefix.pch.gch APNsSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/main.o /Users/cetauri/Documents/APNsSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/APNsSampleAppDelegate.o /Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample normal i386
+cGenerateDSYMFile /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app.dSYM /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample
+cTouch /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/cetauri/Documents/APNsSample/APNsSample_Prefix.pch
+c000000004D35053C00000000000000BD
+t1295320380
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.h
+c000000004D35053C0000000000000150
+t1295320380
+s336
+i<UIKit/UIKit.h>
+
+N/Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m
+c000000004D350A850000000000000FFB
+t1295321733
+s4091
+i"APNsSampleAppDelegate.h"
+
+N/Users/cetauri/Documents/APNsSample/MainWindow.xib
+c000000004D35053C0000000000002117
+t1295320380
+s8471
+
+N/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/APNsSample.LinkFileList
+c000000004D3528D6000000000000010B
+t1295329494
+s267
+
+N/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/APNsSampleAppDelegate.o
+t1295329495
+s56756
+
+N/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/main.o
+t1295329495
+s6296
+
+N/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/StaticAnalyzer/normal/i386/APNsSampleAppDelegate.plist
+t1295321740
+s276
+
+N/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/StaticAnalyzer/normal/i386/main.plist
+t1295321090
+s276
+
+N/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app
+t1295329495
+s204
+
+N/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app.dSYM
+t1295329495
+s102
+
+N/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample
+t1295329495
+s16824
+
+N/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/Info.plist
+t1295329494
+s606
+
+N/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/MainWindow.nib
+t1295329494
+s987
+
+N/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/PkgInfo
+t1295329494
+s8
+
+N/Users/cetauri/Documents/APNsSample/main.m
+c000000004D35053C000000000000016C
+t1295320380
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-bpwullgcuutqupayazqtzrtbyyoe/APNsSample_Prefix.pch.gch
+t1295329495
+s15453392
+
+N/var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-dghcfaideffqvxdedmahfqkphqiz/APNsSample_Prefix.pch.pth
+t1295321089
+s2784012
+
+NAPNsSample-Info.plist
+c000000004D3514780000000000000379
+t1295324280
+s889
+
+CAnalyze /Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m
+s317014540.919706
+e317014540.974671
+r1
+xAnalyze
+x/Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m
+lSLF07#2@75"Analyze /Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m317014540#317014540#0(0"0(0#0#67"/Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m8616694688#1992"    cd /Users/cetauri/Documents/APNsSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-generated-files.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-own-target-headers.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-all-target-headers.hmap -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-project-headers.hmap -F/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -I/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/include -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources/i386 -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources -include /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-dghcfaideffqvxdedmahfqkphqiz/APNsSample_Prefix.pch --analyze /Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m -o /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/StaticAnalyzer/normal/i386/APNsSampleAppDelegate.plist0#
+
+CAnalyze /Users/cetauri/Documents/APNsSample/main.m
+s317013890.106001
+e317013890.185399
+r1
+xAnalyze
+x/Users/cetauri/Documents/APNsSample/main.m
+lSLF07#2@50"Analyze /Users/cetauri/Documents/APNsSample/main.m317013890#317013890#0(0"0(0#0#42"/Users/cetauri/Documents/APNsSample/main.m21955391785074736#1950"    cd /Users/cetauri/Documents/APNsSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-generated-files.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-own-target-headers.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-all-target-headers.hmap -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-project-headers.hmap -F/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -I/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/include -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources/i386 -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources -include /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-dghcfaideffqvxdedmahfqkphqiz/APNsSample_Prefix.pch --analyze /Users/cetauri/Documents/APNsSample/main.m -o /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317022294#317022294#0(0"0(0#1#0"8606268832#0"0#
+
+CCompileC build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/APNsSampleAppDelegate.o /Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317022295.313644
+e317022295.475355
+r1
+xCompileC
+xbuild/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/APNsSampleAppDelegate.o
+x/Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m317022295#317022295#0(0"0(0#0#67"/Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m8606980352#1983"    cd /Users/cetauri/Documents/APNsSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-generated-files.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-own-target-headers.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-all-target-headers.hmap -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-project-headers.hmap -F/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -I/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/include -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources/i386 -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources -include /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-bpwullgcuutqupayazqtzrtbyyoe/APNsSample_Prefix.pch -c /Users/cetauri/Documents/APNsSample/Classes/APNsSampleAppDelegate.m -o /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/APNsSampleAppDelegate.o0#
+
+CCompileC build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/main.o /Users/cetauri/Documents/APNsSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317022295.312624
+e317022295.455841
+r1
+xCompileC
+xbuild/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/main.o
+x/Users/cetauri/Documents/APNsSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/cetauri/Documents/APNsSample/main.m317022295#317022295#0(0"0(0#0#42"/Users/cetauri/Documents/APNsSample/main.m8607078432#1941"    cd /Users/cetauri/Documents/APNsSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-generated-files.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-own-target-headers.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-all-target-headers.hmap -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-project-headers.hmap -F/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -I/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/include -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources/i386 -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources -include /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-bpwullgcuutqupayazqtzrtbyyoe/APNsSample_Prefix.pch -c /Users/cetauri/Documents/APNsSample/main.m -o /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/cetauri/Documents/APNsSample/MainWindow.xib
+s317022294.039474
+e317022294.403826
+r1
+xCompileXIB
+x/Users/cetauri/Documents/APNsSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317022294#317022294#0(0"0(0#0#50"/Users/cetauri/Documents/APNsSample/MainWindow.xib8603935904#564"    cd /Users/cetauri/Documents/APNsSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/MainWindow.nib /Users/cetauri/Documents/APNsSample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app.dSYM /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample
+s317022295.662578
+e317022295.681464
+r1
+xGenerateDSYMFile
+x/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app.dSYM
+x/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/APNsSample.app.dSYM build/Debug-iphonesimulator/APNsSample.app/APNsSample317022295#317022295#0(0"0(0#0#89"/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample8607388128#383"    cd /Users/cetauri/Documents/APNsSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample -o /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app.dSYM0#
+
+CLd /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample normal i386
+s317022295.475454
+e317022295.662393
+r1
+xLd
+x/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample
+xnormal
+xi386
+lSLF07#2@94"Link /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample317022295#317022295#0(0"0(0#0#0"8604108416#900"    cd /Users/cetauri/Documents/APNsSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -F/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -filelist /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/Objects-normal/i386/APNsSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/APNsSample0#
+
+CProcessInfoPlistFile /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/Info.plist APNsSample-Info.plist
+s317022294.036009
+e317022294.039395
+r1
+xProcessInfoPlistFile
+x/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/Info.plist
+xAPNsSample-Info.plist
+lSLF07#2@29"Process APNsSample-Info.plist317022294#317022294#0(0"0(0#0#57"/Users/cetauri/Documents/APNsSample/APNsSample-Info.plist8604369344#479"    cd /Users/cetauri/Documents/APNsSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility APNsSample-Info.plist -genpkginfo /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app/Info.plist0#
+
+CProcessPCH /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-bpwullgcuutqupayazqtzrtbyyoe/APNsSample_Prefix.pch.gch APNsSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317022294.403943
+e317022295.312529
+r1
+xProcessPCH
+x/var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-bpwullgcuutqupayazqtzrtbyyoe/APNsSample_Prefix.pch.gch
+xAPNsSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile APNsSample_Prefix.pch317022294#317022295#0(0"0(0#0#57"/Users/cetauri/Documents/APNsSample/APNsSample_Prefix.pch8610065312#1833"    cd /Users/cetauri/Documents/APNsSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-generated-files.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-own-target-headers.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-all-target-headers.hmap -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-project-headers.hmap -F/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -I/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/include -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources/i386 -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources -c /Users/cetauri/Documents/APNsSample/APNsSample_Prefix.pch -o /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-bpwullgcuutqupayazqtzrtbyyoe/APNsSample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-dghcfaideffqvxdedmahfqkphqiz/APNsSample_Prefix.pch.pth APNsSample_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s317013888.584133
+e317013889.307534
+r1
+xProcessPCH
+x/var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-dghcfaideffqvxdedmahfqkphqiz/APNsSample_Prefix.pch.pth
+xAPNsSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile APNsSample_Prefix.pch317013888#317013889#0(0"0(0#0#57"/Users/cetauri/Documents/APNsSample/APNsSample_Prefix.pch8613415616#1824"    cd /Users/cetauri/Documents/APNsSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-generated-files.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-own-target-headers.hmap -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-all-target-headers.hmap -iquote /Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/APNsSample-project-headers.hmap -F/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator -I/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/include -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources/i386 -I/Users/cetauri/Documents/APNsSample/build/APNsSample.build/Debug-iphonesimulator/APNsSample.build/DerivedSources -c /Users/cetauri/Documents/APNsSample/APNsSample_Prefix.pch -o /var/folders/A6/A619C3+1EdqUNLrgkl-MPU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/APNsSample_Prefix-dghcfaideffqvxdedmahfqkphqiz/APNsSample_Prefix.pch.pth0#
+
+CTouch /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app
+s317022295.681676
+e317022295.688340
+r1
+xTouch
+x/Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app
+lSLF07#2@84"Touch /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app317022295#317022295#0(0"0(0#0#0"8607090464#275"    cd /Users/cetauri/Documents/APNsSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cetauri/Documents/APNsSample/build/Debug-iphonesimulator/APNsSample.app0#
+
